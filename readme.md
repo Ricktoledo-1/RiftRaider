@@ -1,1 +1,1 @@
-Rift Raider is a space invaders style game where you will be battling an alien ship and avoiding its attacks with your ship in space. This game will be made using DOM manipulation. Game Demo Link: Toledohostinginc.com/Rift-Raider
+Rift Raider is a space invaders style game where you will be assaulted by an alien ship and avoiding its attacks with your unarmed ship in until the timer runs out and reinforcements arrive. This game will be made using DOM manipulation. Game Demo Link: Toledohostinginc.com/Rift-Raider
