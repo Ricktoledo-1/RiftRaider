@@ -75,7 +75,6 @@ body {
 #rulesWindow{
 	margin:0 auto;
     background:url(images/rules.png) no-repeat center transparent;
-    bottom: 40px;
 }
 
 .gameButton2{
@@ -83,8 +82,8 @@ body {
 	height:100px;
 	width:200px;
 	position:absolute;
-	bottom: -37;
-	left:43%;
+	bottom: 0;
+	left:58%;
 	z-index:10;
 	cursor:pointer;
 }
