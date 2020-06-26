@@ -21,6 +21,10 @@ function showGameOverWindow(){
 	window.location.href = 'gameOver.html';
 }
 
+let sound = document.getElementById("audio");
+sound.volume = 0.1;
+
+
 //player
 let ship= null;
 function init(){
